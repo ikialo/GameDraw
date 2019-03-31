@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "807332995894",
+    "firebase_url": "https://androidstudio-b5a20.firebaseio.com",
+    "project_id": "androidstudio-b5a20",
+    "storage_bucket": "androidstudio-b5a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807332995894:android:e087e504599eed21",
+        "android_client_info": {
+          "package_name": "com.example.isaac.gamedraw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807332995894-avbe9lekuirgpif0cbc7mttte1bfm6g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.isaac.gamedraw",
+            "certificate_hash": "27926793033846217192b06adfdba68dfa0c8c57"
+          }
+        },
+        {
+          "client_id": "807332995894-g1rhlh27865tkorcus2htiulfo2isosv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzd9cgruBnYk0fQuDkjX7NyNNaU_xctQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807332995894-g1rhlh27865tkorcus2htiulfo2isosv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
